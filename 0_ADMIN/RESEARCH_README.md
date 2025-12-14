@@ -4,7 +4,7 @@ Document: Repository Overview & Map
 Badge: HHI-AD-00
 Category: Admin
 Author: Amy Pierce Adams
-Contact: Hollofieldresearch@proton.com
+Contact: Hollowfieldresearch@proton.com
 Repo: hollowhouseinstitute/Research_Papers
 License: Field-Based Cognition Research License (FBCR-1) — see hollowhouseinstitute/Master_License_Suite
 Version: 2025-12-05 v1.0
