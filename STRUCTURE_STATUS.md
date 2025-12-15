@@ -11,4 +11,4 @@ and consensus review.
 Canonical Order:
 0_ADMIN → 1_THEORY → 2_PROTOCOLS → 3_DATASETS → 4_ANALYSIS → 5_PAPERS → 6_TOOLS → 7_APPENDIX
 
-Effective date: YYYY-MM-DD
+Effective date: 2025-12-14
