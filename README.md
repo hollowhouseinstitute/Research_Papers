@@ -4,6 +4,8 @@
 This repository contains the **research corpus, methods, datasets, analyses, and papers**
 developed under the Hollow House Institute.
 
+![Status](https://img.shields.io/badge/Status-ACTIVE-grey?style=flat-square)
+
 ## Governance & Canonical Authority
 
 This repository is a downstream research execution repository of the
