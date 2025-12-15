@@ -1,3 +1,4 @@
+[![Governed by Hollow House Institute](https://img.shields.io/badge/Governed%20by-Hollow%20House%20Institute-black?style=flat-square)](https://github.com/hollowhouseinstitute/Hollow_House_Institute)
 # Research Papers — Hollow House Institute
 
 This repository contains the **research corpus, methods, datasets, analyses, and papers**
