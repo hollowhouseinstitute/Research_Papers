@@ -3,6 +3,23 @@
 This repository contains the **research corpus, methods, datasets, analyses, and papers**
 developed under the Hollow House Institute.
 
+## Governance & Canonical Authority
+
+This repository is a downstream research execution repository of the
+**Hollow House Institute**.
+
+Canonical governance, ethical guidelines, standards, licensing, and
+cross-repository coordination are maintained in:
+
+🏛 **Hollow_House_Institute**  
+https://github.com/hollowhouseinstitute/Hollow_House_Institute
+
+This repository follows the Institute’s canonical research chronology:
+
+0_ADMIN → 1_THEORY → 2_PROTOCOLS → 3_DATASETS →  
+4_ANALYSIS → 5_PAPERS → 6_TOOLS → 7_APPENDIX
+
+
 The structure is designed to enforce:
 - Conceptual separation
 - Auditability
